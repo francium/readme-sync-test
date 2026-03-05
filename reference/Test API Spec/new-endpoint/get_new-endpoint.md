@@ -1,6 +1,6 @@
 ---
 title: New Endpoint
-excerpt: This is your first endpoint! Edit this page to start documenting your API.
+excerpt: GitHub changed this, not Readme.com
 api:
   file: test-api-spec.json
   operationId: get_new-endpoint
